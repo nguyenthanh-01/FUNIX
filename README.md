@@ -36,3 +36,5 @@ ko thông bất tất không đem ra tỷ thí được ! Nguy cơ rời bỏ v�
 chăn vịt là có thể !
 
 Và trên đây là bộ nội công tâm pháp 1000 bài tập kỹ thuật lập trình :))))
+
+#Email: nguyenthanh.5s4d@xf164.onmicrosoft.com
