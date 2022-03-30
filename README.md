@@ -35,6 +35,4 @@ phải luyện qua chiêu thứ nhất kỹ càng, nếu dục tốc sẽ dẫn 
 ko thông bất tất không đem ra tỷ thí được ! Nguy cơ rời bỏ võ lâm Trung Nguyên về Tây vực
 chăn vịt là có thể !
 
-Và trên đây là bộ nội công tâm pháp 1000 bài tập kỹ thuật lập trình :))))
-
-Email: nguyenthanh.5s4d@xf164.onmicrosoft.com
+Và trên đây là bộ nội công tâm pháp 1000 bài tập kỹ thuật lập trình :)))
