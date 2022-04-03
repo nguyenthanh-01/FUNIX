@@ -7,7 +7,7 @@ int main () {
     long long a = 0; // biến a kiểu long long
     scanf ("%d", &n); // nhập vào n
     for (int i = 1; i <= n; i++) { // chạy từ 1 > n
-        a += i; // giá trị sẽ dc cộng dồn vào a
+        a += i; // cộng dồn i vào a
     }
     printf ("%lld ", a); // in ra a
     return 0; // kết thúc
