@@ -34,5 +34,3 @@ kíp ! Toàn bộ hướng đến việc đơn giản hóa các chiêu thức t�
 phải luyện qua chiêu thứ nhất kỹ càng, nếu dục tốc sẽ dẫn đến tẩu hỏa nhập ma, học hoài cũng
 ko thông bất tất không đem ra tỷ thí được ! Nguy cơ rời bỏ võ lâm Trung Nguyên về Tây vực
 chăn vịt là có thể !
-
-Và trên đây là bộ nội công tâm pháp 1000 bài tập kỹ thuật lập trình :)))
