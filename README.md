@@ -36,5 +36,3 @@ ko thông bất tất không đem ra tỷ thí được ! Nguy cơ rời bỏ v�
 chăn vịt là có thể !
 
 Và trên đây là bộ nội công tâm pháp 1000 bài tập kỹ thuật lập trình :)))
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanh-01&repo=1000-bai-tap-ky-thuat-lap-trinh)](https://github.com/nguyenthanh-01/1000-bai-tap-ky-thuat-lap-trinh)
