@@ -33,6 +33,6 @@ kíp ! Toàn bộ hướng đến việc đơn giản hóa các chiêu thức t�
 đường phản công sắc bén, thành hay bại, một phần lớn nằm trong chiêu này ! Để luyện được, cần
 phải luyện qua chiêu thứ nhất kỹ càng, nếu dục tốc sẽ dẫn đến tẩu hỏa nhập ma, học hoài cũng
 ko thông bất tất không đem ra tỷ thí được ! Nguy cơ rời bỏ võ lâm Trung Nguyên về Tây vực
+chăn vịt là có thể !
 
 https://drive.google.com/drive/folders/1RtcjKpNbR6OwfpmAeN97sriDUa5EQyJc?usp=sharing
-chăn vịt là có thể !
