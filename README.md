@@ -35,4 +35,4 @@ phải luyện qua chiêu thứ nhất kỹ càng, nếu dục tốc sẽ dẫn 
 ko thông bất tất không đem ra tỷ thí được ! Nguy cơ rời bỏ võ lâm Trung Nguyên về Tây vực
 chăn vịt là có thể !
 
-##[Tài Liệu](https://bit.ly/3abWBvW)
+## [Tài Liệu](https://bit.ly/3abWBvW)
