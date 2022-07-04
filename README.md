@@ -1,4 +1,4 @@
-# Độc cô cầu bại
+#
 Xưa đến nay, bổn phái Đoạt Hồn Kiếm Hàn Tử Nhai (Đại học khoa học tự nhiên) dưới chân núi
 Ngũ Vân Cốc (đường Nguyễn Văn Cừ) trải qua mấy trăm năm thành danh trên chốn giang hồ, là
 môn phái thuộc hàng bắc đẩu trong giới võ lâm hào kiệt. Bổn phái tồn tại đến ngày hôm nay một
